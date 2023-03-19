@@ -18,4 +18,4 @@ def roman(num):
             result -= 2 * previous
         previous = current
     return result
-print(roman('XCIX'))
+print(roman('MCMXCIV'))
