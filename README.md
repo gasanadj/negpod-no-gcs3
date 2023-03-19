@@ -11,7 +11,7 @@ the problems we will work on for the session can be found here https://docs.goog
 ## Terminal Command
 
 ```python
-python3 start.py
+python3 [name of the file]
 ```
 
 ## Contributing
